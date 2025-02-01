@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+img{
+    height: 250px;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+#footer{
+    text-align: center;
+    border: solid;
+}
+#contact{
+    text-align: center;
+    border: solid;
+    padding: 5%;
+}
+figcaption{
+    color: blueviolet;
+}
+#our_store{
+    border: solid;
+    padding: 5%;
+}
+#products{
+    border: solid;
+    padding: 5%;
+}
